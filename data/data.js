@@ -1,6 +1,6 @@
 
-let allOrders = "orderservice-production-a815.up.railway.app/orders"
-let saveOrderUrl = "orderservice-production-a815.up.railway.app/orders"
+let allOrders = "https://orderservice-production-a815.up.railway.app/orders"
+let saveOrderUrl = "https://orderservice-production-a815.up.railway.app/orders"
 let findAllOrders = () => {
     return fetch(allOrders, {
         method: "GET",
