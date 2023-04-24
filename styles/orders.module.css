@@ -1,0 +1,27 @@
+.container{
+    width:75%;
+    height: 50%;
+    max-width: 750px;
+    margin: 10%;
+    background-color: black;
+    min-width: 100px;
+    text-align: center;
+    color:white;
+}
+
+.table thead {
+    background-color: Blue;
+}
+
+.table thead tr th {
+    width: 20%;
+    padding: 12px;
+    vertical-align: top;
+    letter-spacing: 0.35px;
+}
+
+.table tbody tr td{
+    letter-spacing: 0.35px;
+    padding: 8px;
+    text-align: center;
+}

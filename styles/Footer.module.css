@@ -1,0 +1,6 @@
+.container {
+    max-height: 50px;
+    display: flex;
+    bottom: 0;
+    position: absolute;
+}

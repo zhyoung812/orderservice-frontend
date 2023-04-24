@@ -1,0 +1,30 @@
+.container{
+    width:50%;
+    height: 50%;
+    max-width: 500px;
+    margin: 10%;
+    background-color: black;
+    min-width: 100px;
+    text-align: center;
+    color:white;
+}
+
+.inputbox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom: 15px;
+}
+.submitbuttondiv {
+    margin:20px;
+
+}
+.btnsubmit {
+    width:50%;
+    height:40px;
+    background-color:red;
+
+}
+.btnsubmit input:hover {
+    background-color: darkred;
+}
